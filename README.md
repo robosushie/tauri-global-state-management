@@ -1,6 +1,6 @@
 # Tauri Global State Management
 
-This project demonstrates a Tauri application with global state management. The local state for individual frontend windows is managed using Zustand, while the global state is managed and synced across all frontend windows using the Rust backend.
+A Tauri application with global state management. The local state for individual frontend windows is managed using Zustand, while the global state is managed and synced across all frontend windows using the Rust backend.
 
 ## Project Structure
 
